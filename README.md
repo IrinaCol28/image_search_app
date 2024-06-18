@@ -57,6 +57,7 @@ Kit) – формат архивных исполняемых файлов-пр�
 ![изображение](https://github.com/IrinaCol28/image_search_app/assets/118562632/95d68a17-c8c9-4516-abb1-087bc83074ce)
 
 Процесс поиска изображений
+
 ![изображение](https://github.com/IrinaCol28/image_search_app/assets/118562632/f1e568a7-1b2f-40d4-8b11-a1f85a9839f3)
 
 ![изображение](https://github.com/IrinaCol28/image_search_app/assets/118562632/f0ef686e-3397-4eb3-841e-082e691b2040)
